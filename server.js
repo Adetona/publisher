@@ -5,7 +5,6 @@ const PubSubManager = require('./pubmanager');
 const app = express();
 const pubSubManager = new PubSubManager();
 const port = process.env.port || "8000";
-const router = express.Router();
 const WebSocket = require('ws');
 
 app.use(express.json())
