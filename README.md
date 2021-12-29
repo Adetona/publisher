@@ -11,7 +11,7 @@
 "topic": "topic1"
 }`
 
-PS: method is POST and topic1 is the only 
+PS: method is POST and topic1 is the only available channel
 
 
 # Notes on how to use receiver/subscriber
